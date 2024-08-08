@@ -1,4 +1,4 @@
-# Extract related work and references
+# Extract Abstract
 ## Description
 Ce projet contient les fichiers nécessaires pour la genereation de l'abstract
 
